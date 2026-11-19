@@ -1,0 +1,21 @@
+PS C:\Users\Student\cpp-practicals> g++ practical9.cpp -o practical9
+PS C:\Users\Student\cpp-practicals> .\practical9.exe
+----- GENERIC STACK USING TEMPLATES -----
+Student Name: Satinderpal Singh Chaney
+Roll Number: E26B00S2034 ----- INTEGER STACK -----
+Pushing: 10 20 30
+Top Element: 30
+Popped Element: 30
+----- FLOAT STACK -----
+Pushing: 10.5 20.5 30.5
+Top Element: 30.5
+Popped Element: 30.5
+----- STRING STACK -----
+Pushing: C++ Programming Practical
+Top Element: Practical
+Popped Element: Practical
+----- EMPTY STACK TEST -----
+Stack is empty!
+Cannot pop from an empty stack. Template Stack Demonstrated Successfully!
+Program executed successfully.
+PS C:\Users\Student\cpp-practicals>
